@@ -91,9 +91,7 @@ button[type='submit'] {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
   margin-top: 10px;
   align-self: flex-start;
   text-transform: uppercase;
